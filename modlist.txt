@@ -1,0 +1,523 @@
+   Version: 1
+Name: crashing7-21
+Mods:
+- Id: brrainz.harmony
+  Name: Harmony
+- Id: ludeon.rimworld
+  Name: Core
+- Id: ludeon.rimworld.royalty
+  Name: Royalty
+- Id: erdelf.humanoidalienraces
+  Name: Humanoid Alien Races
+- Id: unlimitedhugs.hugslib
+  Name: HugsLib
+- Id: jecrell.jecstools
+  Name: JecsTools
+- Id: goudaquiche.moharframework
+  Name: MoHAR framework
+- Id: rimfridge.kv.rw
+  Name: '[KV] RimFridge'
+- Id: jkviolet.rakkleracemode
+  Name: Rakkle the rattle snake Race mod
+- Id: lwm.deepstorage
+  Name: LWM's Deep Storage
+- Id: unlimitedhugs.mapreroll
+  Name: Map Reroll
+- Id: orion.hospitality
+  Name: Hospitality
+- Id: oskarpotocki.vanillafactionsexpanded.core
+  Name: Vanilla Expanded Framework
+- Id: syrchalis.universalfermenter
+  Name: '[SYR] Universal Fermenter'
+- Id: oskarpotocki.vanillafactionsexpanded.medievalmodule
+  Name: Vanilla Factions Expanded - Medieval
+- Id: ceteam.combatextended
+  Name: Combat Extended
+- Id: n7huntsman.combatextendedshields
+  Name: 'Combat Extended: Shields'
+- Id: dubwise.dubsbadhygiene
+  Name: Dubs Bad Hygiene
+- Id: avilmask.commonsense
+  Name: Common Sense
+- Id: fluffy.fluffybreakdowns
+  Name: Fluffy Breakdowns
+- Id: dubwise.rimefeller
+  Name: Rimefeller
+- Id: factioncontrol.kv.rw
+  Name: '[KV] Faction Control'
+- Id: orion.factiondiscovery
+  Name: Faction Discovery
+- Id: thebird956.doublepopulation
+  Name: Double Population
+- Id: jaxe.coastlines
+  Name: Coastlines
+- Id: syrchalis.harvestyieldpatch
+  Name: '[SYR] Harvest Yield'
+- Id: smashphil.loadinginprogress
+  Name: Loading In Progress
+- Id: vanillaexpanded.vee
+  Name: Vanilla Events Expanded
+- Id: vanillaexpanded.vaeed
+  Name: Vanilla Animals Expanded — Extreme Desert
+- Id: vanillaexpanded.vaed
+  Name: Vanilla Animals Expanded — Desert
+- Id: vanillaexpanded.vtexe
+  Name: Vanilla Textures Expanded
+- Id: luizi.vwr
+  Name: Vanilla Weapons Retextured
+- Id: wemd.partiallypassablewindturbines
+  Name: '[WD] Partially-Passable Wind Turbines'
+- Id: tammybee.whereismyweapon
+  Name: Where is my weapon?
+- Id: tradingspot.kv.rw
+  Name: '[KV] Trading Spot'
+- Id: gguake.ui.simplesearchbar
+  Name: Simple Search Bar
+- Id: cabbage.rimcities
+  Name: RimCities - Citadel Update
+- Id: krafs.levelup
+  Name: Level Up!
+- Id: owlchemist.gloomyvanilla
+  Name: Gloomy Vanilla
+- Id: wemd.fastmoisturepumps
+  Name: '[WD] Fast Moisture Pumps'
+- Id: targhetti.showdrafteesweapon
+  Name: Show Draftees Weapon
+- Id: telefonmast.graphicssettings
+  Name: Graphics Settings+
+- Id: user19990313.runtimegc
+  Name: RuntimeGC
+- Id: automatic.recipeicons
+  Name: Recipe icons
+- Id: woolstrand.realruins
+  Name: Real Ruins
+- Id: kapitanoczywisty.changemapedge
+  Name: Change map edge limit
+- Id: twistedpacifist.reasonablecomponents
+  Name: Reasonable Components
+- Id: marvinkosh.ughyougotme
+  Name: Ugh You Got Me
+- Id: jaxe.rimhud
+  Name: RimHUD
+- Id: syrchalis.doormats
+  Name: '[SYR] Doormats'
+- Id: moretraitslots.kv.rw
+  Name: '[KV] More Trait Slots'
+- Id: fluffy.modmanager
+  Name: Mod Manager
+- Id: avius.locks
+  Name: Locks
+- Id: agentblac.makepawnsprisoners
+  Name: 1.3 - Imprisonment On The Go! (Make Pawns Prisoners Without Beds)
+- Id: spoonshortage.adogsaidanimalprosthetics
+  Name: A Dog Said... Animal Prosthetics
+- Id: brrainz.achtung
+  Name: Achtung!
+- Id: saucypigeon.addtransportpod
+  Name: Add Transport Pod
+- Id: dninemfive.advancedshieldbelts
+  Name: Advanced Shield Belts
+- Id: unlimitedhugs.allowtool
+  Name: Allow Tool
+- Id: jaxe.foodrestrictions
+  Name: Animal Food Restrictions
+- Id: fluffy.animaltab
+  Name: Animal Tab
+- Id: fluffy.areaunlocker
+  Name: Area Unlocker
+- Id: falconne.aff
+  Name: Avoid Friendly Fire
+- Id: fluffy.backuppower
+  Name: Backup Power
+- Id: voult.betterpawncontrol
+  Name: Better Pawn Control
+- Id: owlchemist.bettervanillamasking
+  Name: Better Vanilla Masking
+- Id: falconne.bwm
+  Name: Better Workbench Management
+- Id: automatic.bionicicons
+  Name: Bionic icons
+- Id: solaris.bioreactor
+  Name: BioReactor
+- Id: fluffy.blueprints
+  Name: Blueprints
+- Id: shinzy.bridgello
+  Name: Bridgello
+- Id: ameiro.animehairs
+  Name: Ameiro anime hairs
+- Id: cp.chicken.mitchell.hairstyles
+  Name: '[CP] Chicken Mitchell - Hairstyles'
+- Id: chicken305.efficienlight
+  Name: Chickens Efficient Light
+- Id: thewirelord354.conduitdeconstruct
+  Name: Conduit Deconstruct
+- Id: configurablemaps.kv.rw
+  Name: '[KV] Configurable Maps'
+- Id: katavrik.crashlanding
+  Name: Crash Landing
+- Id: jangodsoul.simplestorage
+  Name: '[JDS] Simple Storage'
+- Id: unlimitedhugs.defensivepositions
+  Name: Defensive Positions
+- Id: jecrell.doorsexpanded
+  Name: Doors Expanded
+- Id: dubwise.dubsbreakmod
+  Name: Dubs Break Mod
+- Id: dubwise.dubsmintminimap
+  Name: Dubs Mint Minimap
+- Id: dubwise.dubsperformanceanalyzer
+  Name: Dubs Performance Analyzer
+- Id: aelanna.eccentrictech.foxysarmory
+  Name: Eccentric Tech - Foxy's Armory
+- Id: aelanna.eccentricextras.angelhairs
+  Name: Eccentric Extras - Angel Hairs
+- Id: aelanna.eccentrictech.cosmetics
+  Name: Eccentric Tech - Cosmetic Modifications
+- Id: aelanna.eccentrictech.flares
+  Name: Eccentric Tech - Flares
+- Id: edb.preparecarefully
+  Name: EdB Prepare Carefully
+- Id: jaxxa.ed.embrasures
+  Name: ED-Embrasures
+- Id: jaxxa.ed.enhancedoptions
+  Name: ED-EnhancedOptions
+- Id: cocaine.electricstonecuttingtable
+  Name: Electric Stonecutting Table
+- Id: ykara.epoe
+  Name: Expanded Prosthetics and Organ Engineering
+- Id: zylle.extraalerts
+  Name: Extra Alerts
+- Id: kosaro.fahrenheitandcelsius
+  Name: Fahrenheit and Celsius
+- Id: fluffy.followme
+  Name: Follow Me
+- Id: shinzy.froggychair
+  Name: Froggy Chair
+- Id: gt.sam.furnace
+  Name: Furnace
+- Id: uuugggg.gearupandgo
+  Name: Gear Up And Go
+- Id: smashphil.neceros.srtsexpanded
+  Name: SRTS Expanded
+- Id: albion.goexplore
+  Name: Go Explore!
+- Id: meltup.grandrivers.reborn
+  Name: Grand Rivers Reborn
+- Id: avilmask.grazinglands
+  Name: Grazing Lands
+- Id: daniledman.hardworkinganimals
+  Name: Hardworking animals 1.2
+- Id: delsin53752.hdhterrainhtexturehpack
+  Name: HD Terrain Texture Pack
+- Id: automatic.highqualitytextures
+  Name: High quality textures
+- Id: automatic.gradienthair
+  Name: Gradient Hair
+- Id: improvedloadtransportpods.rw
+  Name: Improved Load Transport Pods
+- Id: vanya.tools.incidentpersonstat
+  Name: Incident Person Stat
+- Id: vanillaexpanded.vplantse
+  Name: Vanilla Plants Expanded
+- Id: biomesteam.biomescore
+  Name: Biomes! Core
+- Id: biomesteam.biomesislands
+  Name: Biomes! Islands
+- Id: frozensnowfox.indoortreefarms
+  Name: '[FSF] Indoor Tree Farms'
+- Id: sirkota.inventorytab
+  Name: InventoryTab
+- Id: invisible.conduits
+  Name: Invisible Conduits 1.2
+- Id: insertkey.itemlistselector
+  Name: ItemListSelector
+- Id: brrainz.justignoremepassing
+  Name: Just Ignore Me Passing
+- Id: dingo.lessrebuff
+  Name: Less Rebuff
+- Id: lingluo.lovelyhairstyle
+  Name: '[SS]Lovely Hair Style'
+- Id: ratys.madskills
+  Name: Mad Skills
+- Id: uuugggg.mealsonwheels
+  Name: Meals On Wheels
+- Id: fluffy.medicaltab
+  Name: Medical Tab
+- Id: notfood.mendandrecycle
+  Name: MendAndRecycle
+- Id: cp.cqc.takedown
+  Name: '[CP] Metal Gear Solid - CQC Takedown'
+- Id: syrchalis.metallicbatteries
+  Name: '[SYR] Metallic Batteries'
+- Id: uuugggg.miningpriority
+  Name: Mining Priority
+- Id: haplo.miscellaneous.core
+  Name: Miscellaneous 'CORE'
+- Id: haplo.miscellaneous.robots
+  Name: Misc. Robots
+- Id: leion247658.miscvhcraftablehrobots
+  Name: Misc. Craftable Robots
+- Id: mehni.pickupandhaul
+  Name: Pick Up And Haul
+- Id: ilyaki133.stockpilehstackhlimit
+  Name: Stockpile Stack Limit
+- Id: doctorvangogh.modswitch
+  Name: ModSwitch
+- Id: navyseal5.moreharvestdesignators
+  Name: More Harvest Designators!
+- Id: 4loris4.morelinkables
+  Name: More Linkables
+- Id: com.github.alandariva.moreplanning
+  Name: More Planning
+- Id: bichang.moresculpture
+  Name: More Sculpture
+- Id: adjustabletradeships.kv.rw
+  Name: '[KV] Adjustable Trade Ships'
+- Id: falconne.labelsonfloor
+  Name: Labels on Floor
+- Id: telkir.tmods.morefloors
+  Name: '[T] MoreFloors'
+- Id: mehni.numbers
+  Name: Numbers
+- Id: ogre.ogrestack
+  Name: OgreStack
+- Id: doctorvangogh.miningshaft
+  Name: Omni Core Drill
+- Id: pathavoid.kv.rw
+  Name: '[KV] Path Avoid'
+- Id: avius.prisonlabor
+  Name: Prison Labor
+- Id: extracting.organs
+  Name: Prisoner Harvesting
+- Id: hatti.qualitybuilder
+  Name: QualityBuilder
+- Id: hatti.qualitysurgeon
+  Name: QualitySurgeon
+- Id: alaestor.quantumcooling
+  Name: Quantum Cooling
+- Id: brrainz.rangefinder
+  Name: Range Finder
+- Id: crlsniper.realisticrooms
+  Name: Realistic Rooms
+- Id: uuugggg.replacestuff
+  Name: Replace Stuff
+- Id: notfood.researchpal
+  Name: ResearchPal
+- Id: cp.retro.joy
+  Name: '[CP] Retro Joy'
+- Id: cp.rimmunation.weapons
+  Name: '[CP] Rimmu-Nation - Weapons'
+- Id: uuugggg.roomfood
+  Name: Room Food
+- Id: ratys.rtfuse
+  Name: RT Fuse
+- Id: ratys.rtsolarflareshield
+  Name: RT Solar Flare Shield
+- Id: roolo.runandgun
+  Name: RunAndGun
+- Id: uuugggg.safelyhiddenaway
+  Name: Safely Hidden Away
+- Id: savestoragesettings.kv.rw
+  Name: '[KV] Save Storage, Outfit, Crafting, Drug, & Operation Settings'
+- Id: syrchalis.scarremoval
+  Name: '[SYR] Scar Removal Plus'
+- Id: roolo.searchanddestroy
+  Name: Search and Destroy
+- Id: tammybee.selectablesculpturegraphic
+  Name: Selectable Sculpture Graphic
+- Id: syrchalis.setupcamp
+  Name: '[SYR] Set Up Camp'
+- Id: uuugggg.sharetheload
+  Name: Share The Load
+- Id: showhair.kv.rw
+  Name: '[KV] Show Hair With Hats or Hide All Hats'
+- Id: erdelf.showmoddesignators
+  Name: ShowModDesignators
+- Id: petetimessix.simplesidearms
+  Name: Simple sidearms
+- Id: uuugggg.smartmedicine
+  Name: Smart Medicine
+- Id: sarg.smartspeed
+  Name: Smart Speed
+- Id: fridgebaron.techsales
+  Name: TechSales
+- Id: gt.sam.tilledsoil
+  Name: Tilled Soil
+- Id: jaxe.toggleharvest
+  Name: Toggle Harvest
+- Id: meow.tradablestoneblocks
+  Name: Tradable Stone Blocks
+- Id: nephlite.orbitaltradecolumn
+  Name: Utility Columns
+- Id: frozensnowfox.filthvanisheswithrainandtime
+  Name: '[FSF] Filth Vanishes With Rain And Time'
+- Id: vanillaexpanded.vaeas
+  Name: Vanilla Animals Expanded — Arid Shrubland
+- Id: vanillaexpanded.vaeau
+  Name: Vanilla Animals Expanded — Australia
+- Id: vanillaexpanded.vaebf
+  Name: Vanilla Animals Expanded — Boreal Forest
+- Id: vanillaexpanded.vaecd
+  Name: Vanilla Animals Expanded — Cats and Dogs
+- Id: vanillaexpanded.vaeis
+  Name: Vanilla Animals Expanded — Ice Sheet
+- Id: vanillaexpanded.vaetr
+  Name: Vanilla Animals Expanded — Tropical Rainforest
+- Id: vanillaexpanded.vaets
+  Name: Vanilla Animals Expanded — Tropical Swamp
+- Id: vanillaexpanded.vaet
+  Name: Vanilla Animals Expanded — Tundra
+- Id: oskarpotocki.vanillafactionsexpanded.settlersmodule
+  Name: Vanilla Factions Expanded - Settlers
+- Id: vanillaexpanded.vcef
+  Name: Vanilla Fishing Expanded
+- Id: vanillaexpanded.vfecore
+  Name: Vanilla Furniture Expanded
+- Id: vanillaexpanded.vfeart
+  Name: Vanilla Furniture Expanded - Art
+- Id: vanillaexpanded.vfefarming
+  Name: Vanilla Furniture Expanded - Farming
+- Id: vanillaexpanded.vfepower
+  Name: Vanilla Furniture Expanded - Power
+- Id: vanillaexpanded.vfeproduction
+  Name: Vanilla Furniture Expanded - Production
+- Id: cucumpear.azrael.varietycoats
+  Name: Animal Variety Coats
+- Id: vanillaexpanded.vfemedical
+  Name: Vanilla Furniture Expanded - Medical Module
+- Id: stormknight.outdoorlighting
+  Name: Outdoor Lighting
+- Id: murmur.walllight
+  Name: Wall Light
+- Id: uuugggg.whatismypurpose
+  Name: What Is My Purpose
+- Id: cp.rimmunation.clothing
+  Name: '[CP] Rimmu-Nation - Clothing'
+- Id: xen.fix.tame
+  Name: Xen's Taming Fixer
+- Id: rh.faction.task.force.141
+  Name: '[RH] Faction: Task Force 141'
+- Id: rh.faction.the.ghosts
+  Name: '[RH] Faction: The Ghosts'
+- Id: rh.faction.umbra.company
+  Name: '[RH] Faction: Umbra Company'
+- Id: cp.rimmunation.glovesnboots
+  Name: "[CP] Rimmu-Nation - Gloves N' Boots"
+- Id: cp.military.furniture
+  Name: '[CP] Military Furniture'
+- Id: cp.mgs.incident.sounds.2
+  Name: '[CP] Metal Gear Solid - Incident Sounds 2'
+- Id: cp.metal.gear.solid
+  Name: '[CP] Metal Gear Solid'
+- Id: rh.faction.militaires.sans.frontieres
+  Name: '[RH] Faction: Militaires Sans Frontieres'
+- Id: rh.faction.last.man.contingent
+  Name: '[RH] Faction: Last Man Contingent'
+- Id: rh.faction.cordis.die
+  Name: '[RH] Faction: Cordis Die'
+- Id: frozensnowfox.nodefaultshelfstorage
+  Name: '[FSF] No Default Shelf Storage'
+- Id: syrchalis.coffeeandtea
+  Name: '[SYR] Coffee and Tea'
+- Id: troopersmith1.deathrattle
+  Name: Death Rattle Continued [1.2]
+- Id: crashm.colorcodedmoodbar.11
+  Name: CM Color Coded Mood Bar [1.1+]
+- Id: vanillaexpanded.vhe
+  Name: Vanilla Hair Expanded
+- Id: wemd.handsarenotoutside
+  Name: '[WD] Hands Are Not Outside'
+- Id: hol.words
+  Name: More Descriptive Words and Names
+- Id: wemd.nerfedparasites
+  Name: '[WD] Nerfed Parasites'
+- Id: cucumpear.noburny
+  Name: No Burny (less flammable metals)
+- Id: saucypigeon.pawnbadge
+  Name: Pawn Badge Fan Fork
+- Id: wemd.reinforceddoors
+  Name: '[WD] Reinforced Doors'
+- Id: dubwise.rimatomics
+  Name: Rimatomics
+- Id: ltbob.preemptivestrike.rimworld
+  Name: Preemptive Strike (Fork)
+- Id: wemd.expandedfloors
+  Name: '[WD] Expanded Floors'
+- Id: wemd.simpleconcrete
+  Name: '[WD] Simple Concrete'
+- Id: wemd.soilcontrast
+  Name: '[WD] Soil Contrast'
+- Id: zylle.standyourground
+  Name: Stand Your Ground
+- Id: uuugggg.tdpack
+  Name: TD Enhancement Pack
+- Id: uuugggg.usebedrolls
+  Name: Use Bedrolls
+- Id: vanillaexpanded.vbrewe
+  Name: Vanilla Brewing Expanded
+- Id: vanillaexpanded.vcooke
+  Name: Vanilla Cooking Expanded
+- Id: vanillaexpanded.vhe.beards
+  Name: Vanilla Hair Expanded - Beards
+- Id: ogliss.thewhitecrayon.quarry
+  Name: Quarry
+- Id: fluffy.pharmacist
+  Name: Pharmacist
+- Id: mlie.advancedbiomes
+  Name: Advanced Biomes (Continued)
+- Id: wemd.barbedwire
+  Name: '[WD] Barbed Wire'
+- Id: wemd.antibioticsandpainkillers
+  Name: '[WD] Antibiotics And Painkillers'
+- Id: mlie.fencesandfloors
+  Name: Fences And Floors (Continued)
+- Id: atlas.androidtiers
+  Name: Android tiers
+- Id: sirmashedpotato.morrowrim
+  Name: MorrowRim
+- Id: sirmashedpotato.morrowrim.glassandebony
+  Name: MorrowRim - Glass and Ebony
+- Id: sirmashedpotato.morrowrim.alcoholremade
+  Name: MorrowRim - Alcohol Remade
+- Id: sirmashedpotato.morrowrim.thesixthhouse
+  Name: MorrowRim - The Sixth House
+- Id: sirmashedpotato.morrowrim.soundpatch
+  Name: MorrowRim - Sound Patch
+- Id: sirmashedpotato.morrowrim.biomespatch
+  Name: MorrowRim - Biomes Patch
+- Id: sumghai.medpod
+  Name: MedPod
+- Id: cp.prisoner.outfit
+  Name: '[CP] Prisoner Outfit'
+- Id: dhultgren.smarterconstruction
+  Name: Smarter Construction
+- Id: frozensnowfox.complexjobs
+  Name: '[FSF] Complex Jobs'
+- Id: dhultgren.buryonthespot
+  Name: Bury On The Spot
+- Id: kirby.nomechanoidsraids
+  Name: '[KIR]No Mechanoid Raids'
+- Id: jpt.burnitforfuel
+  Name: '[JPT] Burn It for Fuel'
+- Id: com.lpprogramming.rimworld.cefixes
+  Name: Combat Extended Fixes
+- Id: dubwise.dubsskylights
+  Name: Dubs Skylights
+- Id: haplo.miscellaneous.training
+  Name: Misc. Training
+- Id: ogliss.toastehs.veinminer
+  Name: Veinminer R1.1
+- Id: cp.rimdeed
+  Name: '[RH2] Rimdeed® - Pawn Recruitment'
+- Id: sirmashedpotato.morrowrim.moonsugarandskooma
+  Name: MorrowRim - Moon Sugar and Skooma
+- Id: radzerp.neorimnauts
+  Name: RimNauts
+- Id: murmur.thickroofminer
+  Name: Thick Roof Miner
+- Id: kongmd.qee
+  Name: Questionable Ethics Enhanced
+- Id: sirmashedpotato.insectshavechitin
+  Name: Insects have chitin
+- Id: lperkins2.bri
+  Name: Better Random Incidents
